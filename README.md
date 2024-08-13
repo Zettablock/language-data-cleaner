@@ -29,3 +29,7 @@ clean("some input",
     lang="en"                       # set to 'de' for German special handling
 )
 ```
+
+Example usage:
+
+`python language_data_cleaner/cleaner.py`
