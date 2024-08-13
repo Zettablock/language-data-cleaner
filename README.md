@@ -33,3 +33,6 @@ clean("some input",
 Example usage:
 
 `python language_data_cleaner/cleaner.py`
+
+
+Note: for data de-idenfitification we may should also look into a package like this: https://github.com/nedap/deidentify
